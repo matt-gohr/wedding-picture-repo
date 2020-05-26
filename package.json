@@ -5,7 +5,9 @@
   "main": "dist/index.js",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "serverless-plugin-scripts": "^1.0.2",
+    "serverless-s3-sync": "^1.14.3"
   },
   "devDependencies": {},
   "scripts": {
